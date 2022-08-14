@@ -1,0 +1,66 @@
+body{
+    background-color:#E5E5E5;
+}
+h3{
+    color: #562EFF;
+}
+.navbar img{
+    width: 40px;
+}
+.player img{
+    width: 56px;
+}
+main{
+    max-width: 870px;
+    
+}
+.top-player{
+    background-color: #E5E5E5;
+}
+.course img{
+    width: 177px;
+}
+small{
+    color: #562EFF;
+}
+.top-blogs{
+    background-color: #E5E5E5;
+}
+
+.navbar{
+    margin-bottom: 50px;
+}
+.course img{
+    width: 224px;
+}
+.small2{
+    color: #ED6B4F;
+}
+.lates-course{
+    background-color: #E5E5E5;
+    margin-top: 30px;
+}
+.checked {
+    color: orange;
+  }
+  .white{
+    color: gray;
+  }
+  .clock-button{
+    background-color:#FFE4E8;
+    width: 94px;
+    border-radius: 14px;
+  }
+  .time{
+    color: #FF4A60;
+  }
+  .padding{
+   padding-left: 10px;
+  }
+  .padding-2{
+    padding-left: 10px;
+  }
+  .padding-3{
+    padding-left: 10px;
+  }
+ 
